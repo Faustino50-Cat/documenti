@@ -60,6 +60,8 @@ In termini d'utilità:
 - [Overview of Cryptography](https://www.garykessler.net/library/crypto.html)
 - [Crypto101](https://www.crypto101.io)
 - [CryptoHack](https://cryptohack.org)
+- [IntenseCrypto](https://files.boazbarak.org/crypto/lnotes_book.pdf)
+- [YTB - Introduction to Cryptography](https://www.youtube.com/channel/UC1usFRN4LCMcfIV7UjHNuQg/featured)
 
 ### Sistemi operativi/architettura
 
